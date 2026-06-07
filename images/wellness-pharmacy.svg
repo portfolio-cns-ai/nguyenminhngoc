@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title desc">
+  <title id="title">Học tập Dược học và cân bằng cá nhân</title>
+  <desc id="desc">Minh họa Dược học, học tập số, cầu lông và âm nhạc.</desc>
+  <rect width="420" height="420" rx="32" fill="#F8FAFC"/>
+  <rect x="52" y="60" width="316" height="248" rx="24" fill="#FFFFFF" stroke="#D7E3EA" stroke-width="4"/>
+  <path d="M111 233 229 115a44 44 0 0 1 62 62L173 295a44 44 0 0 1-62-62Z" fill="#DBEAFE" stroke="#2563EB" stroke-width="12"/>
+  <path d="m151 193 80 80" stroke="#0F766E" stroke-width="12" stroke-linecap="round"/>
+  <path d="M83 82h68M83 112h98M83 142h74" stroke="#64748B" stroke-width="10" stroke-linecap="round"/>
+  <path d="M279 248c25-29 58-29 83 0" fill="none" stroke="#F97316" stroke-width="10" stroke-linecap="round"/>
+  <path d="M297 203v-16a38 38 0 0 1 76 0v16" fill="none" stroke="#0F766E" stroke-width="9" stroke-linecap="round"/>
+  <rect x="289" y="201" width="22" height="48" rx="10" fill="#0F766E"/>
+  <rect x="360" y="201" width="22" height="48" rx="10" fill="#0F766E"/>
+  <path d="M65 337l43-43M84 280l43 43M111 268l35 35M138 262l28 28" stroke="#2563EB" stroke-width="8" stroke-linecap="round"/>
+  <path d="m124 321-28 48 52-24 16-45-40 21Z" fill="#FFFFFF" stroke="#2563EB" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="327" cy="82" r="18" fill="#FFEDD5" stroke="#F97316" stroke-width="8"/>
+  <path d="M327 40v24M327 100v24M285 82h24M345 82h24" stroke="#F97316" stroke-width="8" stroke-linecap="round"/>
+</svg>
